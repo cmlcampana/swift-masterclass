@@ -14,28 +14,28 @@ The main focus of theses projects is learn how to implement advanced features us
 
 ### Restart
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/11183888/170288087-146c9bc0-467f-4be2-a6df-a49cc54d2696.gif)
+<img src="https://user-images.githubusercontent.com/11183888/170288087-146c9bc0-467f-4be2-a6df-a49cc54d2696.gif" width="360" height="750"/>
 
 ### Pinch
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/11183888/170299581-ea931832-e484-43d0-92a3-6a3c4d524b15.gif)
+<img src="https://user-images.githubusercontent.com/11183888/170299581-ea931832-e484-43d0-92a3-6a3c4d524b15.gif" width="360" height="750"/>
 
 
 ### Fruits
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/11183888/170290042-33c67ec9-c168-4cff-88a1-070c7ee651e9.gif)
+ <img src="https://user-images.githubusercontent.com/11183888/170290042-33c67ec9-c168-4cff-88a1-070c7ee651e9.gif" width="360" height="750"/>)
 
 ### Africa
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/11183888/170303228-60a651a4-3226-499f-b1a5-de43963370cf.gif)
+<img src="https://user-images.githubusercontent.com/11183888/170303228-60a651a4-3226-499f-b1a5-de43963370cf.gif" width="360" height="750"/>
 
 ### TouchDown
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/11183888/170291998-57ec6135-b40f-4b60-87a8-3b605a151610.gif)
+<img src="https://user-images.githubusercontent.com/11183888/170291998-57ec6135-b40f-4b60-87a8-3b605a151610.gif" width="360" height="750"/>
 
 ### Devote
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/11183888/170302805-e9edb146-243e-43e5-9f62-5a5eae969576.gif)
+<img src="https://user-images.githubusercontent.com/11183888/170302805-e9edb146-243e-43e5-9f62-5a5eae969576.gif" width="360" height="750"/>
 
 ### Notes (Apple Watch)
 
